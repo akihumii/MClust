@@ -1,0 +1,3 @@
+F:\NTU Research\matlab\t file data processing code_Lulu\Events.nev
+F:\NTU Research\matlab\t file data processing code_Lulu\Clu_20.t
+F:\NTU Research\matlab\t file data processing code_Lulu\Clu_20.ntt
